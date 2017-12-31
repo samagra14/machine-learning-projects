@@ -1,3 +1,6 @@
 /datasets
 /env
 .ipynb_checkpoints/
+*.ckpt.*
+/logs
+/tf_logs
